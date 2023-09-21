@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Eda.
+- 🏫 I’m studying Management Information Systems at Marmara University.
+- 💻 I have just started to improve myself in the software field with Patika.dev.
